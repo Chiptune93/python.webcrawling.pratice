@@ -1,9 +1,9 @@
-# 2022.05.02 
+# note
 
 - idle >> python shell running
 
 
-# 변수와 함수
+## 변수와 함수
 ```
 
 - 변수 사용
